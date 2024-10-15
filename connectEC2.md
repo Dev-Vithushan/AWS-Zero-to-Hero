@@ -1,4 +1,4 @@
-# Connecting to an EC2 Instance Using Terminal (SSH)
+# Connecting to an EC2 Instance Using Terminal (SSH) 💻..☁️
 
 These steps assume you have an EC2 instance running on AWS and you have the following:
 
