@@ -1,4 +1,4 @@
-# AWS Lambda with Python
+# AWS Lambda with Python 🐍
 
 ### To trigger an AWS Lambda function when an upload occurs in an S3 bucket and send a notification email using Gmail, you'll need to follow these steps:
 
